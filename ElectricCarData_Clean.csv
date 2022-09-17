@@ -1,0 +1,104 @@
+Brand,Model,AccelSec,TopSpeed_KmH,Range_Km,FastCharge_KmH,RapidCharge,PowerTrain,Seats,PriceEuro,Efficiency_WhKm
+Tesla ,Model 3 Long Range Dual Motor,4.6,233,450,940,Yes,AWD,5,55480,161
+Volkswagen ,ID.3 Pure,10,160,270,250,Yes,RWD,5,30000,167
+Polestar ,2,4.7,210,400,620,Yes,AWD,5,56440,181
+BMW ,iX3 ,6.8,180,360,560,Yes,RWD,5,68040,206
+Honda ,e ,9.5,145,170,190,Yes,RWD,4,32997,168
+Lucid ,Air ,2.8,250,610,620,Yes,AWD,5,105000,180
+Volkswagen ,e-Golf ,9.6,150,190,220,Yes,FWD,5,31900,168
+Peugeot ,e-208 ,8.1,150,275,420,Yes,FWD,5,29682,164
+Tesla ,Model 3 Standard Range Plus,5.6,225,310,650,Yes,RWD,5,46380,153
+Audi ,Q4 e-tron ,6.3,180,400,540,Yes,AWD,5,55000,193
+Mercedes ,EQC 400 4MATIC,5.1,180,370,440,Yes,AWD,5,69484,216
+Nissan ,Leaf ,7.9,144,220,230,Yes,FWD,5,29234,164
+Hyundai ,Kona Electric 64 kWh,7.9,167,400,380,Yes,FWD,5,40795,160
+BMW ,i4 ,4,200,450,650,Yes,RWD,5,65000,178
+Hyundai ,IONIQ Electric,9.7,165,250,210,Yes,FWD,5,34459,153
+Volkswagen ,ID.3 Pro S,7.9,160,440,590,Yes,RWD,4,40936,175
+Porsche ,Taycan Turbo S,2.8,260,375,780,Yes,AWD,4,180781,223
+Volkswagen ,e-Up! ,11.9,130,195,170,Yes,FWD,4,21421,166
+MG ,ZS EV,8.2,140,220,260,Yes,FWD,5,30000,193
+Mini ,Cooper SE ,7.3,150,185,260,Yes,FWD,4,31681,156
+Opel ,Corsa-e ,8.1,150,275,420,Yes,FWD,5,29146,164
+Tesla ,Model Y Long Range Dual Motor,5.1,217,425,930,Yes,AWD,7,58620,171
+Skoda ,Enyaq iV 50,10,160,290,230,Yes,RWD,5,35000,179
+Audi ,e-tron GT ,3.5,240,425,850,Yes,AWD,4,125000,197
+Tesla ,Model 3 Long Range Performance,3.4,261,435,910,Yes,AWD,5,61480,167
+Volkswagen ,ID.4 ,7.5,160,420,560,Yes,RWD,5,45000,183
+Volkswagen ,ID.3 Pro,9,160,350,490,Yes,RWD,5,33000,166
+Volvo ,XC40 P8 AWD Recharge,4.9,180,375,470,Yes,AWD,5,60437,200
+BMW ,i3 120 Ah,7.3,150,235,270,Yes,RWD,4,38017,161
+Peugeot ,e-2008 SUV ,8.5,150,250,380,Yes,FWD,5,34361,180
+Audi ,e-tron 50 quattro,6.8,190,280,450,Yes,AWD,5,67358,231
+Kia ,e-Niro 64 kWh,7.8,167,370,350,Yes,FWD,5,38105,173
+Renault ,Zoe ZE50 R110,11.4,135,315,230,Yes,FWD,5,31184,165
+Tesla ,Cybertruck Tri Motor,3,210,750,710,Yes,AWD,6,75000,267
+Mazda ,MX-30 ,9,150,180,240,Yes,FWD,5,32646,178
+Nissan ,Leaf e+,7.3,157,325,390,Yes,FWD,5,37237,172
+Lexus ,UX 300e,7.5,160,270,190,Yes,FWD,5,50000,193
+CUPRA ,el-Born ,6.5,160,425,570,Yes,RWD,4,45000,181
+Renault ,Zoe ZE50 R135,9.5,140,310,230,Yes,FWD,5,33133,168
+Mercedes ,EQA ,5,200,350,440,Yes,AWD,5,45000,171
+Tesla ,Model S Long Range,3.8,250,515,560,Yes,AWD,5,79990,184
+Hyundai ,Kona Electric 39 kWh,9.9,155,255,210,Yes,FWD,5,33971,154
+Audi ,e-tron Sportback 55 quattro,5.7,200,380,610,Yes,AWD,5,81639,228
+Skoda ,CITIGOe iV ,12.3,130,195,170,Yes,FWD,4,24534,166
+SEAT ,Mii Electric ,12.3,130,195,170,Yes,FWD,4,20129,166
+Kia ,e-Soul 64 kWh,7.9,167,365,340,Yes,FWD,5,36837,175
+Opel ,Ampera-e ,7.3,150,335,210,Yes,FWD,5,41906,173
+Porsche ,Taycan 4S,4,250,365,730,Yes,AWD,4,102945,195
+Lightyear ,One ,10,150,575,540,Yes,AWD,5,149000,104
+Aiways ,U5 ,9,150,335,350,Yes,FWD,5,36057,188
+Audi ,e-tron 55 quattro,5.7,200,365,590,Yes,AWD,5,79445,237
+Tesla ,Roadster ,2.1,410,970,920,Yes,AWD,4,215000,206
+Opel ,Mokka-e ,8.5,150,255,390,Yes,FWD,5,35000,176
+Skoda ,Enyaq iV 80,8.8,160,420,560,Yes,RWD,5,40000,183
+Tesla ,Model X Long Range,4.6,250,450,490,Yes,AWD,7,85990,211
+Honda ,e Advance,8.3,145,170,190,Yes,RWD,4,35921,168
+DS ,3 Crossback E-Tense,8.7,150,250,380,Yes,FWD,5,37422,180
+Renault ,Twingo ZE,12.6,135,130,-,No,RWD,4,24790,164
+Citroen ,e-C4 ,9.7,150,250,380,Yes,FWD,5,40000,180
+Tesla ,Model S Performance,2.5,261,505,550,Yes,AWD,5,96990,188
+Renault ,Zoe ZE40 R110,11.4,135,255,230,Yes,FWD,5,29234,161
+Tesla ,Model Y Long Range Performance,3.7,241,410,900,Yes,AWD,7,65620,177
+Nissan ,Ariya 87kWh,7.6,160,440,520,Yes,FWD,5,50000,198
+Jaguar ,I-Pace ,4.8,200,365,340,Yes,AWD,5,75351,232
+Ford ,Mustang Mach-E ER RWD,7,180,450,430,Yes,RWD,5,54475,200
+Porsche ,Taycan 4S Plus,4,250,425,890,Yes,AWD,4,109302,197
+Nissan ,e-NV200 Evalia ,14,123,190,190,Yes,FWD,7,33246,200
+Tesla ,Cybertruck Dual Motor,5,190,460,710,Yes,AWD,6,55000,261
+Renault ,Kangoo Maxi ZE 33,22.4,130,160,-,No,FWD,5,38000,194
+Ford ,Mustang Mach-E ER AWD,6,180,430,410,Yes,AWD,5,62900,209
+BMW ,i3s 120 Ah,6.9,160,230,260,Yes,RWD,4,41526,165
+Skoda ,Enyaq iV 80X,7,160,400,540,Yes,AWD,5,45000,193
+Porsche ,Taycan Cross Turismo ,3.5,250,385,770,Yes,AWD,4,150000,217
+Byton ,M-Byte 95 kWh 4WD,5.5,190,390,460,Yes,AWD,5,64000,244
+Sono ,Sion ,9,140,225,270,Yes,FWD,5,25500,156
+Kia ,e-Niro 39 kWh,9.8,155,235,230,Yes,FWD,5,34400,167
+Audi ,Q4 Sportback e-tron ,6.3,180,410,550,Yes,AWD,5,57500,188
+Smart ,EQ forfour ,12.7,130,95,-,No,RWD,4,22030,176
+Ford ,Mustang Mach-E SR AWD,6,180,340,360,Yes,AWD,5,54000,206
+Porsche ,Taycan Turbo,3.2,260,390,810,Yes,AWD,4,148301,215
+Volkswagen ,ID.3 1st,7.3,160,340,470,Yes,RWD,5,38987,171
+Tesla ,Model X Performance,2.8,250,440,480,Yes,AWD,7,102990,216
+Smart ,EQ fortwo coupe,11.6,130,100,-,No,RWD,2,21387,167
+Ford ,Mustang Mach-E SR RWD,6.6,180,360,380,Yes,RWD,5,46900,194
+Mercedes ,EQV 300 Long,10,140,330,290,Yes,FWD,7,70631,273
+Fiat ,500e Hatchback,9,150,250,330,Yes,FWD,4,34900,168
+Tesla ,Cybertruck Single Motor,7,180,390,740,Yes,RWD,6,45000,256
+Audi ,e-tron Sportback 50 quattro,6.8,190,295,470,Yes,AWD,5,69551,219
+Skoda ,Enyaq iV vRS,6.2,180,400,540,Yes,AWD,5,47500,193
+Skoda ,Enyaq iV 60,9,160,320,440,Yes,RWD,5,37500,181
+Audi ,e-tron S 55 quattro,4.5,210,320,510,Yes,AWD,5,93800,270
+Smart ,EQ fortwo cabrio,11.9,130,95,-,No,RWD,2,24565,176
+Kia ,e-Soul 64 kWh,7.9,167,365,320,Yes,FWD,5,36837,175
+Nissan ,Ariya e-4ORCE 87kWh,5.7,200,420,500,Yes,AWD,5,57500,207
+Fiat ,500e Convertible,9,150,250,330,Yes,FWD,4,37900,168
+Volkswagen ,ID.3 Pro Performance,7.3,160,340,470,Yes,RWD,5,35575,171
+Kia ,e-Soul 39 kWh,9.9,157,230,220,Yes,FWD,5,33133,170
+Byton ,M-Byte 72 kWh 2WD,7.5,190,325,420,Yes,RWD,5,53500,222
+Nissan ,Ariya 63kWh,7.5,160,330,440,Yes,FWD,5,45000,191
+Audi ,e-tron S Sportback 55 quattro,4.5,210,335,540,Yes,AWD,5,96050,258
+Nissan ,Ariya e-4ORCE 63kWh,5.9,200,325,440,Yes,AWD,5,50000,194
+Nissan ,Ariya e-4ORCE 87kWh Performance,5.1,200,375,450,Yes,AWD,5,65000,232
+Byton ,M-Byte 95 kWh 2WD,7.5,190,400,480,Yes,AWD,5,62000,238
